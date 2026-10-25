@@ -18,7 +18,7 @@ import {AggregatorV3Interface} from "@chainlink/contracts/src/v0.8/shared/interf
 
 /**
  * @title TokenPresaleTest_Unit
- * @author @JNHFlow21
+ * @author @risingjerry
  * @notice 单元测试，测试TokenPresale合约的各个功能
  *          所有的modifier都要测试 所有function都要测试
  * forge test --match-path test/unit/TokenPresaleTest_Unit.t.sol -vvvv
